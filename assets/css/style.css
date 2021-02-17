@@ -1297,7 +1297,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #buy-tickets .card ul li {
-  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
 }
 
 #buy-tickets .card .text-muted {
