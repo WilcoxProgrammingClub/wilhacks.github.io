@@ -1296,9 +1296,14 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin: 0;
 }
 
+#buy-tickets .card ul {
+  margin-left: 0;
+  margin-right: 0;
+}
+
 #buy-tickets .card ul li {
-  display: flex;
-  justify-content: center;
+  margin-bottom: 20px;
+  font-size: 20px;
   font-weight: bold;
 }
 
