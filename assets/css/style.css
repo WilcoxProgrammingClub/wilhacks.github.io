@@ -1307,6 +1307,10 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-weight: bold;
 }
 
+#buy-tickets .equivalent ul li {
+  font-size: 15px;
+}
+
 #buy-tickets .card .text-muted {
   opacity: 0.7;
 }
