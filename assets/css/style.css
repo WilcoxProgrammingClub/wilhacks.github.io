@@ -20,7 +20,7 @@ a {
 }
 
 a:hover, a:active, a:focus {
-  color: #ffde59;
+  color: #ff0000;
   outline: none;
   text-decoration: none;
 }
@@ -81,13 +81,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top:focus {
-  background: #ffde59;
+  background: #ff0000;
   color: #737373;
   outline: none;
 }
 
 .back-to-top:hover {
-  background: #ffde59;
+  background: #ff0000;
   color: #737373;
 }
 
@@ -527,7 +527,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #intro h1 span {
-  color: #ffde59;
+  color: #ff0000;
 }
 
 @media (max-width: 991px) {
@@ -633,11 +633,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #fff;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
-  border: 2px solid #ffde59;
+  border: 2px solid #ff0000;
 }
 
 #intro .about-btn:hover {
-  background: #ffde59;
+  background: #ff0000;
   color: #fff;
 }
 
@@ -760,7 +760,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #speakers .speaker .details a:hover {
-  color: #ffde59;
+  color: #ff0000;
 }
 
 #speakers .speaker:hover .details {
@@ -795,7 +795,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #speakers-details .details .social a:hover {
-  background: #ffde59;
+  background: #ff0000;
   color: #fff;
 }
 
@@ -833,7 +833,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   border: none;
   border-radius: 50px;
   font-weight: 600;
-  background-color: #ffde59;
+  background-color: #ff0000;
   color: #737373;
   padding: 10px 100px;
 }
@@ -1046,7 +1046,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #hotels .stars i {
-  color: #ffc31d;
+  color: #ff0000;
 }
 
 #hotels p {
@@ -1182,7 +1182,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #faq #faq-list a.collapse {
-  color: #ffde59;
+  color: #ff0000;
 }
 
 #faq #faq-list a.collapsed {
@@ -1254,7 +1254,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #subscribe button:hover {
-  background: #ffde59;
+  background: #ff0000;
 }
 
 @media (max-width: 460px) {
@@ -1327,7 +1327,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #buy-tickets .card .btn:hover {
-  background-color: #ffde59;
+  background-color: #ff0000;
 }
 
 #buy-tickets #buy-ticket-modal input, #buy-tickets #buy-ticket-modal select {
@@ -1345,7 +1345,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #buy-tickets #buy-ticket-modal .btn:hover {
-  background-color: #ffde59;
+  background-color: #ff0000;
 }
 
 /*--------------------------------------------------------------
@@ -1385,7 +1385,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .contact-info a:hover {
-  color: #ffde59;
+  color: #ff0000;
 }
 
 #contact .contact-address, #contact .contact-phone, #contact .contact-email {
@@ -1484,7 +1484,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .php-email-form button[type="submit"]:hover {
-  background: #ffde59;
+  background: #ff0000;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1563,7 +1563,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #ffde59;
+  background: #ff0000;
   color: #fff;
 }
 
@@ -1574,7 +1574,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   text-transform: uppercase;
   position: relative;
   padding-bottom: 12px;
-  border-bottom: 2px solid #ffde59;
+  border-bottom: 2px solid #ff0000;
 }
 
 #footer .footer-top .footer-links {
@@ -1589,7 +1589,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 5px;
-  color: #ffde59;
+  color: #ff0000;
   font-size: 18px;
 }
 
@@ -1607,7 +1607,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top .footer-links ul a:hover {
-  color: #ffde59;
+  color: #ff0000;
 }
 
 #footer .footer-top .footer-contact {
@@ -1629,7 +1629,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top .footer-newsletter input[type="submit"] {
-  background: #ffde59;
+  background: #ff0000;
   border: 0;
   width: 35%;
   padding: 6px 0;
@@ -1640,7 +1640,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top .footer-newsletter input[type="submit"]:hover {
-  background: #ffde59;
+  background: #ff0000;
 }
 
 #footer .copyright {
