@@ -1064,41 +1064,35 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding: 60px;
   overflow: hidden;
 }
-
-#gallery .owl-nav, #gallery .owl-dots {
-  margin-top: 25px;
-  text-align: center;
+#gallery .swiper-pagination {
+  margin-top: 20px;
+  position: relative;
 }
-
-#gallery .owl-item {
-  border-left: 2px solid #fff;
-  border-right: 2px solid #fff;
-}
-
-#gallery .owl-dot {
-  display: inline-block;
-  margin: 0 5px;
+#gallery .swiper-pagination .swiper-pagination-bullet {
   width: 12px;
   height: 12px;
-  border-radius: 50%;
-  background-color: #ddd;
+  background-color: #fff;
+  opacity: 1;
+  border: 1px solid #f82249;
 }
-
-#gallery .owl-dot.active {
-  background-color: ;
+#gallery .swiper-pagination .swiper-pagination-bullet-active {
+  background-color: #f82249;
 }
-
-#gallery .gallery-carousel .owl-stage-outer {
-  overflow: visible;
+#gallery .swiper-slide-active {
+  text-align: center;
 }
-
-#gallery .gallery-carousel .center {
-  border: 6px solid ;
-  margin: -10px;
-  box-sizing: content-box;
-  padding: 4px;
-  background: #fff;
-  z-index: 1;
+@media (min-width: 992px) {
+  #gallery .swiper-wrapper {
+    padding: 40px 0;
+  }
+  #gallery .swiper-slide-active {
+    border: 5px solid #f82249;
+    padding: 4px;
+    background: #fff;
+    z-index: 1;
+    transform: scale(1.15);
+    margin-top: 6px;
+  }
 }
 
 /*--------------------------------------------------------------
@@ -1160,6 +1154,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-weight: 600;
   padding-right: 20px;
 }
+
 
 #faq #faq-list i {
   font-size: 24px;
