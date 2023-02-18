@@ -1661,6 +1661,10 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-left: auto;
 }
 
-.sName {
+.sponsorName {
+  font-family: Raleway;
   text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
 }
