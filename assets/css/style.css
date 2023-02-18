@@ -1660,3 +1660,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-right: auto;
   margin-left: auto;
 }
+
+.sName {
+  text-align: center;
+}
